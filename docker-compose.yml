@@ -13,4 +13,9 @@ services:
       - "3000:3000"
     depends_on:
       - db
+<<<<<<< HEAD
     env_file: .env
+=======
+volumes:
+  bundle:
+>>>>>>> 3b93cf7022d16e41e13273af041956ce06f2d23e

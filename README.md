@@ -21,7 +21,7 @@ Run -
   ```
   $ docker-compose run web rake webpacker:install
   $ docker-compose run web rake webpacker:install:react
-  $ docker-compose up
+  $ docker-compose up web
   ```
 
   
